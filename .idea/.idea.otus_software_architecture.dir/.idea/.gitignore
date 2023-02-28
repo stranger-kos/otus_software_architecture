@@ -1,0 +1,17 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.otus_software_architecture.iml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+/encodings.xml
+/indexLayout.xml
+/vcs.xml
