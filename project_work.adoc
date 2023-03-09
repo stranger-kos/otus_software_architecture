@@ -96,6 +96,8 @@ image::Images/ContextScheme.svg[]
 
 == Диаграмма контейнеров
 
+image::Images/ContainerScheme.svg[]
+
 == Диаграмма развертывания
 
 image::Images/DeploymentScheme.svg[]
